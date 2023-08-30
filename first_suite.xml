@@ -1,0 +1,20 @@
+<suite thread-count="3" name="first_suite" verbose="1" parallel="tests">
+   <!-- <test  name="lead_unitTest1" >
+        <classes>
+            <class name="testcase.CreateLead" />
+            <class name="testcase.DeleteLead" />
+            <class name="testcase.DuplicateLead" />
+        </classes>
+    </test>
+    <test name="lead_unitTest2" >
+        <classes>
+            <class name="testcase.CreateLead" />
+            <class name="testcase.DeleteLead" />
+        </classes>
+    </test>-->
+    <test  name="lead_unitTest3" >
+        <classes>
+            <class name="testcase.CreateLead" />
+        </classes>
+    </test>
+</suite>
